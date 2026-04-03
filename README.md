@@ -10,7 +10,7 @@ The dashboard is divided into three functional areas:
     KPI Tracking: Real-time visibility into Total Revenue($302M), TOtal Orders(10K) and Average Order Value($30.20k)
     Trend Analysis: A monthly revenue trend line to identifyseasonal peaks and throughs.
     Product Performance: A breakdown of top-performing products and revenue distribution by category and brand.
-   image: 
+   image: https://github.com/AdiRaj94/Ecommerce-data/blob/main/images/Ecommerce1.png
 2. Revenue analysis & Customer Satisfaction
    Temporal Insights: Comparison of revenue generated on Weekdays vs Weekends and daily performance trends.
    Critical Action Table: "Products with low rating and high sales"  table identifies high-value products at risk of churn or returns due to poor customer satisfaction.
