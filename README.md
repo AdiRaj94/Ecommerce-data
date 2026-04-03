@@ -14,7 +14,7 @@ The dashboard is divided into three functional areas:
 2. Revenue analysis & Customer Satisfaction
    Temporal Insights: Comparison of revenue generated on Weekdays vs Weekends and daily performance trends.
    Critical Action Table: "Products with low rating and high sales"  table identifies high-value products at risk of churn or returns due to poor customer satisfaction.
-   image: 
+   image: https://github.com/AdiRaj94/Ecommerce-data/blob/main/images/Ecommerce2.png
 3. Platform & Geographic Insight:
    image:
    Reginal Distribution: A treemap visualising revenue across major cities like Cairo, Riyadh and Casablanca.
