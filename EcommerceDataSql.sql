@@ -1,5 +1,3 @@
-use adidb;
-select * from EcommerceData;
 
 ------ Revenue analysis
 
@@ -57,8 +55,6 @@ round(sum(TotalAmount),2) totRev
 from EcommerceData
 group by Product
 order by totRev desc;
-
-select distinct Product from EcommerceData;
 
 ---Category has low ratings but high sales
 
