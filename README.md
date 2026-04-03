@@ -16,14 +16,14 @@ The dashboard is divided into three functional areas:
    Critical Action Table: "Products with low rating and high sales"  table identifies high-value products at risk of churn or returns due to poor customer satisfaction.
    image: https://github.com/AdiRaj94/Ecommerce-data/blob/main/images/Ecommerce2.png
 3. Platform & Geographic Insight:
-   image:
    Reginal Distribution: A treemap visualising revenue across major cities like Cairo, Riyadh and Casablanca.
    Category Dominance: Horizontal bar chart showing Electronics and Fashion as primary revenue contributions.
+   image:https://github.com/AdiRaj94/Ecommerce-data/blob/main/images/Ecommerce3.png.
    
    Business Insight derived:
-   Growth opportunity: High-revenue items with low-ratings represent significant business risk. Improving the quality or managing expectations for these specific electronics items could reduce return rates.
-   Reginal Focus: Cairo and Riyadh are the highest grossing cities, suggesting that marketing budget should be preioritized in these hubs.
-   Platform Strategy: Certain brands perform better on Jumia compared to Amazon, indicating a need for platform-specific inventory management.
+       Growth opportunity: High-revenue items with low-ratings represent significant business risk. Improving the quality or managing expectations for these specific electronics items could reduce return rates.
+       Reginal Focus: Cairo and Riyadh are the highest grossing cities, suggesting that marketing budget should be preioritized in these hubs.
+       Platform Strategy: Certain brands perform better on Jumia compared to Amazon, indicating a need for platform-specific inventory management.
 
    
    
