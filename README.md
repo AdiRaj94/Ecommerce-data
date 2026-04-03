@@ -12,15 +12,14 @@ The dashboard is divided into three functional areas:
     Product Performance: A breakdown of top-performing products and revenue distribution by category and brand.
    image: 
 2. Revenue analysis & Customer Satisfaction
-   image: 
    Temporal Insights: Comparison of revenue generated on Weekdays vs Weekends and daily performance trends.
    Critical Action Table: "Products with low rating and high sales"  table identifies high-value products at risk of churn or returns due to poor customer satisfaction.
-  
-3. Platform & Geographic Insight
+   image: 
+3. Platform & Geographic Insight:
    image:
    Reginal Distribution: A treemap visualising revenue across major cities like Cairo, Riyadh and Casablanca.
    Category Dominance: Horizontal bar chart showing Electronics and Fashion as primary revenue contributions.
-
+   
    Business Insight derived:
    Growth opportunity: High-revenue items with low-ratings represent significant business risk. Improving the quality or managing expectations for these specific electronics items could reduce return rates.
    Reginal Focus: Cairo and Riyadh are the highest grossing cities, suggesting that marketing budget should be preioritized in these hubs.
